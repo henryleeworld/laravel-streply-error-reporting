@@ -1,4 +1,4 @@
-# Laravel 9 Streply 錯誤紀錄
+# Laravel 10 Streply 錯誤紀錄
 
 引入 streply 的 streply-laravel 套件來擴增使用 Streply 管理錯誤和日誌、評估活動並提高效能，它不僅自己捕捉所有錯誤，而且還將錯誤發送到 Streply 的資料庫，這種方法不僅速度快，而且非常方便。
 
@@ -19,8 +19,8 @@ $ php artisan key:generate
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 
 ## 畫面截圖
-![](https://i.imgur.com/cUIz5aw.png)
+![](https://i.imgur.com/hIcprRC.png)
 > 觸發錯誤例外以中斷程式流程
 
-![](https://i.imgur.com/mWZ9TtH.png)
+![](https://i.imgur.com/LHFH8b3.png)
 > 使用 Streply 確認程式錯誤的偵測
